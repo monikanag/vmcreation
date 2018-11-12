@@ -89,7 +89,7 @@
             "value": "Basic"
         },
         "virtualMachineName": {
-            "value": "demo1"
+            "value": "demo21"
         },
         "virtualMachineRG": {
             "value": "IOT"
